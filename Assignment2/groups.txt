@@ -1,4 +1,0 @@
-GroupName,GroupDescription
-SUPER_ADMIN,Access to most everything on the domain
-HR_USERS,Access to HR data
-SECURITY_USERS,Access to all security data
