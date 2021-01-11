@@ -1,0 +1,4 @@
+FirstName,LastName,EmployeeNumber,Title,Department,Username,PhoneNUmber,DefaultGroup
+John,Ringel,12345,Teacher,Adjunct,jringel,8455187315,SUPER_ADMIN
+Jeff,Coleman,12456,Car Guy, HR,jbiron,8455155555,HR_USERS
+Pat,Hughes,45612,Security Manager,Security,phughes,8455555155,SECURITY_USERS
