@@ -1,1 +1,1 @@
-hi
+Scripts in Python, PowerShell, and Bash for SysAdmin course
